@@ -1,0 +1,10 @@
+1. Reporte de productos mas adquiridos
+2. Reporte de ventas por periodo
+3. Reporte de inventario
+4. Reporte de productos más vendidos
+5. Reporte de clientes frecuentes
+6. Reporte de ingresos por proveedor
+7. Reporte de tendencias de ventas
+8. Reporte de preferencias del cliente
+9. Reporte de usuarios
+10.Reporte de ventas por categoría de producto

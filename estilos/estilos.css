@@ -1,0 +1,26 @@
+
+.card-blue.card-outline {
+border-top: 3px solid #0B0066;
+}
+.card-blue:not(.card-outline)>.card-header {
+    background-color: #0B0066;
+}
+.btn-blue {
+    color: #fff;
+    background-color: #0B0066;
+    border-color: #0B0066;
+    box-shadow: none;
+}
+.card-blue.card-outline {
+    border-top: 3px solid #0B0066;
+}
+.btn-blue {
+    color: #fff;
+    background-color: #0B0066;
+    border-color: #0B0066;
+    box-shadow: none;
+}
+/* Estilo personalizado para el tamaño del mensaje */
+.custom-popup-class {
+    width: 5em; /* Ancho personalizado */
+  }
