@@ -1,5 +1,6 @@
 <?php
 include ('../app/config.php');
+include("../layout/session.php");
 include ('../layout/parte1.php');
 include ('../app/controllers/usuarios/show_usuario.php');
 
